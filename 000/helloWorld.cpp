@@ -1,6 +1,8 @@
 #include <iostream>
 
 /**
+ * @brief The main function of the program that prompts the user for their name.
+ * 
  * @param argc The number of command line arguments.
  * @param argv The command line arguments.
  */
