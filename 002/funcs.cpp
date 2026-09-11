@@ -1,6 +1,17 @@
 #include <iostream>
 
 /**
+ * @brief This file contains basic functions for programming practice.
+ * 
+ * @file funcs.cpp
+ * 
+ * @author Kiwi
+ * 
+ * @date 2026-09-10 
+ * 
+ */
+
+/**
  * @brief Adds two integers
  * 
  * @param x The first number
