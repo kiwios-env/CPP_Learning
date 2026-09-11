@@ -18,8 +18,22 @@ int addition(int x, int y);
  */
 int subtraction(int x, int y);
 
+/**
+ * @brief Multiplies two integers 
+ * 
+ * @param x The first number
+ * @param y The second number
+ * @return The product of x and y
+ */
 int multiplication(int x, int y);
 
+/**
+ * @brief Divides two integers
+ * 
+ * @param x The first number
+ * @param y The second number
+ * @return The quotient of x and y
+ */
 int division(int x, int y);
 
 int main() {
